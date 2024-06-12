@@ -1,0 +1,186 @@
+{
+    "Eastern Europe": {
+        "Moscow Russia": {
+            "latitude": 55.7505412,
+            "longitude": 37.6174782
+        },
+        "Warsaw Poland": {
+            "latitude": 52.2337172,
+            "longitude": 21.071432235636493
+        },
+        "Kyiv Ukraine": {
+            "latitude": 50.4500336,
+            "longitude": 30.5241361
+        },
+        "Bucharest Romania": {
+            "latitude": 44.4361414,
+            "longitude": 26.1027202
+        },
+        "Prague Czech Republic (Czechia)": {
+            "latitude": 50.0992702,
+            "longitude": 14.3766834
+        },
+        "Budapest Hungary": {
+            "latitude": 47.4978789,
+            "longitude": 19.0402383
+        },
+        "Minsk Belarus": {
+            "latitude": 53.9024716,
+            "longitude": 27.5618225
+        },
+        "Sofia Bulgaria": {
+            "latitude": 42.6977028,
+            "longitude": 23.3217359
+        },
+        "Bratislava Slovakia": {
+            "latitude": 48.15926025,
+            "longitude": 17.139658691421687
+        },
+        "Chi\u0219in\u0103u Moldova": {
+            "latitude": 47.0245117,
+            "longitude": 28.8322923
+        }
+    },
+    "Northern Europe": {
+        "London United Kingdom": {
+            "latitude": 51.4893335,
+            "longitude": -0.14405508452768728
+        },
+        "Stockholm Sweden": {
+            "latitude": 59.3251172,
+            "longitude": 18.0710935
+        },
+        "Copenhagen Denmark": {
+            "latitude": 55.6867243,
+            "longitude": 12.5700724
+        },
+        "Helsinki Finland": {
+            "latitude": 60.1674881,
+            "longitude": 24.9427473
+        },
+        "Oslo Norway": {
+            "latitude": 59.9133301,
+            "longitude": 10.7389701
+        },
+        "Dublin Ireland": {
+            "latitude": 53.3493795,
+            "longitude": -6.2605593
+        },
+        "Vilnius Lithuania": {
+            "latitude": 54.6870458,
+            "longitude": 25.2829111
+        },
+        "Riga Latvia": {
+            "latitude": 56.9493977,
+            "longitude": 24.1051846
+        },
+        "Tallinn Estonia": {
+            "latitude": 59.4372155,
+            "longitude": 24.7453688
+        },
+        "Reykjavik Iceland": {
+            "latitude": 64.145981,
+            "longitude": -21.9422367
+        }
+    },
+    "Southern Europe": {
+        "Rome Italy": {
+            "latitude": 41.8933203,
+            "longitude": 12.4829321
+        },
+        "Madrid Espana": {
+            "latitude": 40.4167047,
+            "longitude": -3.7035825
+        },
+        "Athens Greece": {
+            "latitude": 37.9755648,
+            "longitude": 23.7348324
+        },
+        "Lisbon Portugal": {
+            "latitude": 38.7077507,
+            "longitude": -9.1365919
+        },
+        "Belgrade Serbia": {
+            "latitude": 44.8178131,
+            "longitude": 20.4568974
+        },
+        "Zagreb Croatia": {
+            "latitude": 45.8130967,
+            "longitude": 15.9772795
+        },
+        "Sarajevo Bosnia and Herzegovina": {
+            "latitude": 43.8519774,
+            "longitude": 18.3866868
+        },
+        "Tirana Albania": {
+            "latitude": 41.3281482,
+            "longitude": 19.8184435
+        },
+        "Ljubljana Slovenia": {
+            "latitude": 46.0500268,
+            "longitude": 14.5069289
+        },
+        "Skopje North Macedonia": {
+            "latitude": 41.9961816,
+            "longitude": 21.4319213
+        },
+        "Podgorica Montenegro": {
+            "latitude": 42.4415238,
+            "longitude": 19.2621081
+        },
+        "Valletta Malta": {
+            "latitude": 35.8989818,
+            "longitude": 14.5136759
+        },
+        "Andorra la Vella Andorra": {
+            "latitude": 42.5069391,
+            "longitude": 1.5212467
+        },
+        "San Marino San Marino": {
+            "latitude": 43.9363996,
+            "longitude": 12.4466991
+        },
+        "Vatican City": {
+            "latitude": 41.903411,
+            "longitude": 12.4528527
+        }
+    },
+    "Western Europe": {
+        "Berlin Germany": {
+            "latitude": 52.5170365,
+            "longitude": 13.3888599
+        },
+        "Paris France": {
+            "latitude": 48.8534951,
+            "longitude": 2.3483915
+        },
+        "Amsterdam Netherlands": {
+            "latitude": 52.3730796,
+            "longitude": 4.8924534
+        },
+        "Brussels Belgium": {
+            "latitude": 50.8550018,
+            "longitude": 4.3512333761166175
+        },
+        "Vienna Austria": {
+            "latitude": 48.2083537,
+            "longitude": 16.3725042
+        },
+        "Bern Switzerland": {
+            "latitude": 46.9484742,
+            "longitude": 7.4521749
+        },
+        "Luxembourg City Luxembourg": {
+            "latitude": 49.6112768,
+            "longitude": 6.129799
+        },
+        "Vaduz Liechtenstein": {
+            "latitude": 47.1392862,
+            "longitude": 9.5227962
+        },
+        "Monaco Monaco": {
+            "latitude": 43.7311424,
+            "longitude": 7.4197576
+        }
+    }
+}
